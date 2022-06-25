@@ -1,0 +1,18 @@
+.component{
+    width: 150px ;
+    height: 100%;
+    background-color: silver;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    list-style: none;
+    padding:50px;
+}
+
+ul li {
+    color: #fff;
+    line-height: 23px;
+}
